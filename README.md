@@ -39,7 +39,7 @@ https://github.com/Orion10101999/Jarurat-Care-Counter-Chart-Js
 2. Navigate into the project directory:
 
 ```bash
-cd react-counter-app
+cd Jarurat-Care-Counter-Chart-Js
 
 
 ```
