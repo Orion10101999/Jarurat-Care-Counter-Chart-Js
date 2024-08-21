@@ -2,7 +2,9 @@
 
 
 ```bash
-https://jarurat-care-counter-chart-jk1cwicpi.vercel.app/
+
+https://jarurat-care-counter-chart-js.vercel.app/
+
 
 ```
 
